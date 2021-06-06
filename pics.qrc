@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pics/answerBackground.png</file>
+        <file>pics/OKbutton_texture.png</file>
+        <file>pics/тест.png</file>
+        <file>pics/png-transparent-sakura-samurai-art-of-the-sword-cherry-blossom-pink-cherry-cdr-leaf-heart.png</file>
+    </qresource>
+</RCC>
